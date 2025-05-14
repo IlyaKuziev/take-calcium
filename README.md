@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-# Дата последнего приёма кальция ( 23 april)
+# Дата последнего приёма кальция ( 14 may)
 last_intake_date = datetime.strptime("2023-09-15", "%Y-%m-%d")
 # Текущее время
 today = datetime.today()
