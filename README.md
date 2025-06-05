@@ -8,6 +8,7 @@ today = datetime.today()
 days_passed = (today - last_intake_date).days
 # Проверка
 if days_passed > 200:
+  
 //dis one?
     print(f"⚠️ Напоминание: прошло {days_passed} дней с последнего приёма кальция! Пора принять снова.")
 else:
