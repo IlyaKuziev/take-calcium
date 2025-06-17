@@ -6,7 +6,6 @@ today = datetime.today()
 
 # Разница в днях 
 
-
    gucci
 days_passed = (today - last_intake_date).days
 # Проверка
