@@ -5,7 +5,6 @@ last_intake_date = datetime.strptime("2023-09-15", "%Y-%m-%d")
 today = datetime.today()
 
 # Разница в днях 
-
    gucci
 days_passed = (today - last_intake_date).days
 # Проверка
