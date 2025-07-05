@@ -7,6 +7,10 @@ today = datetime.today()
 # Разница в днях 
 magn
 s
+
+
+scientist
+
 asd
 w
    gucci
