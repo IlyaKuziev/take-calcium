@@ -4,6 +4,8 @@ last_intake_date = datetime.strptime("2023-09-15", "%Y-%m-%d")
 # Текущее время
 today = datetime.today()
 
+dayzz
+s
 # Разница в днях 
 magn
 s
